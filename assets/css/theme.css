@@ -19304,7 +19304,7 @@ iframe {
 }
 
 .icon-item#facebook:hover, .icon-item#facebook:focus {
-  background-color: #3c5a99;
+  background-color: #0000FF;
 }
 
 .icon-item#instagram {
@@ -19316,13 +19316,20 @@ iframe {
 }
 
 .icon-item#twitter {
-  background: #FFFEFE;
+  background: #1C1C1C;
 }
 
 .icon-item#twitter:hover, .icon-item#twitter:focus {
   background-color: #1da1f2;
 }
 
+.icon-item#tiktok {
+  background: #FFFEFE;
+}
+
+.icon-item#tiktok:hover, .icon-item#tiktok:focus {
+  background-color: #000000;
+}
 .icon-item:hover, .icon-item:focus {
   color: #FFFEFE;
 }
