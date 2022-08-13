@@ -52,27 +52,29 @@
         <div class="container-fluid" style="padding-top: 4rem;">
             <div class="row">
                 <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
-                    <img src="assets/img/parceiros/aguaNatureza.png"
-                        class="w-100 shadow-1-strong rounded mb-4 " alt="Boat on Calm Water" />
-                    
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain1.webp"
-                        class="w-100 shadow-1-strong rounded mb-4" alt="Wintry Mountain Landscape"/>
+                    <img src="assets/img/parceiros/oasis1.png"
+                        class="w-50 shadow-1-strong rounded mb-4 " alt="Boat on Calm Water" />
+                    	<img src="assets/img/parceiros/nutriSolutions.png"
+                        class="w-50 shadow-1-strong rounded mb-4 " alt="Boat on Calm Water" />
+
+                    <img src="assets/img/parceiros/clinicadahora.png"
+                        class="w-50 shadow-1-strong rounded mb-4" alt="Wintry Mountain Landscape"/>
                 </div>
 
-                <div class="col-lg-4 mb-4 mb-lg-0">
-                    <img src="assets/img/partner/aguaNatureza.png"
-                        class="w-100 shadow-1-strong rounded mb-4" alt="Mountains in the Clouds" />
+		<div class="col-lg-4 mb-4 mb-lg-0">
+                    <img src="assets/img/parceiros/fotografia1.png"
+                        class="w-50 shadow-1-strong rounded mb-4" alt="Mountains in the Clouds" />
 
                     <img src="assets/img/partner/fotografia.png"
-                        class="w-100 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
+                        class="w-50 shadow-1-strong rounded mb-4" alt="Boat on Calm Water" />
                 </div>
 
                 <div class="col-lg-4 mb-4 mb-lg-0">
                     <img src="assets/img/partner/nutrisSolution.png"
-                        class="w-100 shadow-1-strong rounded mb-4" alt="Waves at Sea" />
+                        class="w-50 shadow-1-strong rounded mb-4" alt="Waves at Sea" />
 
                     <img src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
-                        class="w-100 shadow-1-strong rounded mb-4" alt="Yosemite National Park" />
+                        class="w-50 shadow-1-strong rounded mb-4" alt="Yosemite National Park" />
                 </div>
             </div>
         </div>
@@ -89,49 +91,35 @@
                 <div class="row row-cols-lg-5 row-cols-md-3 row-cols-2 flex-center">
                     <div class="col">
                         <div class="card shadow-hover mb-6" style="border-radius:10px;">
-                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/partner/1.png"
+                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/parceiros/fotografia1.png"
                                     alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-hover mb-6" style="border-radius:10px;">
-                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/partner/2.png"
+                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/parceiros/barbeariaMan1.png"
                                     alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-hover mb-6" style="border-radius:10px;">
-                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/partner/2.png"
+                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/parceiros/nutrisolutions.png"
                                     alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-hover mb-6" style="border-radius:10px;">
-                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/partner/2.png"
+                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/parceiros/kr.run1.png"
                                     alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow-hover mb-6" style="border-radius:10px;">
-                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/partner/2.png"
-                                    alt="" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card shadow-hover mb-6" style="border-radius:10px;">
-                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/partner/2.png"
-                                    alt="" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card shadow-hover mb-6" style="border-radius:10px;">
-                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/partner/2.png"
+                            <div class="card-body text-center"> <img class="img-fluid" src="assets/img/parceiros/fotografia1.png"
                                     alt="" />
                             </div>
                         </div>
