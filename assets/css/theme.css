@@ -217,7 +217,7 @@
   }
 }
 
-/* */
+/* caroseul*/
 .slick-slide {
   margin: 0px 20px;
 }
@@ -332,6 +332,8 @@
 .slick-arrow.slick-hidden {
   display: none;
 }
+
+/*Fim de caroseul */
 
 
 /*#instafeed {
