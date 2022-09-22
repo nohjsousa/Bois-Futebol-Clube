@@ -28,7 +28,7 @@
   <!-- ===============================================-->
   <!--    Stylesheets-->
   <!-- ===============================================-->
-  <script src="assets/js/instafeed.js"></script>
+  <script src="assets/js/instafeed.min.js"></script>
   <link href="assets/css/theme.css" rel="stylesheet" />
   <link href="assets/css/animacao.css" rel="stylesheet" />
 
@@ -112,7 +112,7 @@
                       allowfullscreen="allowfullscreen"></iframe>-->
 
                     <iframe width="width:100%;max-height:500px;" height="500px"
-                      src="https://www.youtube.com/embed/Q_YilYz9yEc" title="YouTube video player" frameborder="0"
+                      src="https://www.youtube.com/embed/bi6foyRujw0" title="YouTube video player" frameborder="0"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                       allowfullscreen></iframe>
                   </div>
@@ -184,9 +184,9 @@
             <h3 class="fs-xl-10 fs-lg-8 fs-7 fw-bold font-cursive text-capitalize"><i class="fab fa-instagram"> </i>
               Instagram</h3>
           </div>
-          <a href="https://www.instagram.com/bois_f.c/" target="_blank"><img class="text-center"
+          <!--<a href="https://www.instagram.com/bois_f.c/" target="_blank"><img class="text-center"
               src="assets/img/atletasFeminino/manutencao.jpeg" width="50%" alt="Service" /></a>
-          <p class="text-center">Clique na imagem para acessar nossa página.</p>
+          <p class="text-center">Clique na imagem para acessar nossa página.</p>-->
         </div>
 
         <div class="instafeed__item" id="instafeed">
@@ -639,14 +639,16 @@
   <!--<footer> close ============================-->
   <!-- ============================================-->
   <!-- feed Instagram-->
+  
   <script type="text/javascript">
     var feed = new Instafeed({
-      accessToken: 'IGQVJYeXhHVkIwMDJkc3ZApd1p3YnN4dTR6MFA1bm8wNmp2ekRCVTBnUmpMaERoNnhFSGdHTy0wTmNINXEtNkFBeTdQZAk1rVlhvWGhDYXctYlZAfa0ZAXVlVBMC1ta285emc5WjVUZAUlPY3BJZAW9XRVpVYwZDZD',
+      accessToken: 'IGQVJYcTJOX013NHJRWnZAfNTk2WjVLTzNGSWMxeFpVc2FFS0syLU1SdUV3OXA3anRXc0g2ZAGpJTnFvNHBSdldsT25oLXF4NGFwYXZAPNXlzSEE4S0laNTBiMWhPQ2lTSm9JUFFiaWVibDlZAajg0WmRwMwZDZD',
       limit: 6,
-      template: '<div class="item"><a href="{{link}}" target="_blank"><img title="{{caption}}" src="{{image}}" /></a></div>',
+      template:'<div class="item"><a href="{{link}}" target="_blank"><img title="{{caption}}" src="{{image}}" /></a></div>',
     });
     feed.run();
   </script>
+
 
   <!-- Fim de feed Instagram-->
   <!-- ===============================================-->
